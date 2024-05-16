@@ -1,1 +1,1 @@
-document.getElementById("aDown").click();
+document.getElementById("callLink").click();
